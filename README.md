@@ -2,7 +2,7 @@
 - Self-taught developer
 
 
-🖥️ Programming Languages (Active)
+- 🖥️ Programming Languages (Active)
 Python  NodeJS/Javascript
 
 
