@@ -1,5 +1,12 @@
-- 👋 Hello I'm Taxed
-- 📺 Active languages: Python, NodeJS/javascript 
+- 👋 Hello I'm Taxed!
+- Self-taught developer
+
+
+🖥️ Programming Languages (Active)
+Python  NodeJS/Javascript
+
+
+
 - 📫 How to reach me: taxed8 Discord
 
 <!---
